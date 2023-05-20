@@ -11,4 +11,5 @@ Gruppo formato da: Fantinato Alberto, Franceschi Niccolò, Gallina Samuele, Luka
 ## Linguaggi utilizzati
 
 **Client:** React
+
 **Server:** Node, Express, MongoDB
